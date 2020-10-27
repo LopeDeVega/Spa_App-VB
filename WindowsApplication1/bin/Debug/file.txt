@@ -1,0 +1,16 @@
+﻿0,Modric,La Barriada,M1 8GH,075 00190368,7 / 7 / 2015,4 / 6 / 2017,Silver,Modric.Real@gmail.com
+1,Kroos,La Barriada,M1 8LH,075 00190464,12 / 12 / 2015,21 / 11 / 2017,Gold,Kroos.Real@gmail.com
+2,Cristiano,La Barriada,M1 8GM,074 20193464,1 / 1 / 2016,22 / 10 / 2018,Gold,Cristiano.Real@gmail.com
+3,Carvajal,La Barriada,M1 7GH,075 00130463,1 / 2 / 2015,1 / 6 / 2017,Bronze,Carvajal.Real@gmail.com
+4,Isco,La Barriada,M1 8AH,074 60100414,12 / 3 / 2016,12 / 3 / 2017,Silver,Isco.Real@gmail.com
+5,Ramos,La Barriada,M1 8AC,075 90190964,2 / 4 / 2016,17 / 12 / 2017,Bronze,Ramos.Real@gmail.com
+6,alberto,Churriana,18194,958 543 5466,3/07/2013,3/07/2019,Gold,pepe.dog@live.com
+0,,,,,,,,
+0,,,,,,,,
+0,,,,,,,,
+0,,,,,,,,
+0,,,,,,,,
+0,,,,,,,,
+0,,,,,,,,
+0,,,,,,,,
+0,,,,,,,,
